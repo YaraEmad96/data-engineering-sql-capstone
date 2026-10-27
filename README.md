@@ -1,2 +1,9 @@
-# data-engineering-sql-capstone
-Python, SQL, and Tableau project completed through Arizona State University coursework
+# Data engineering sql capstone
+Tools:
+
+SQL
+PostgreSQL
+Data Modeling
+Data Integration
+ETL Concepts
+Business Intelligence Reporting
